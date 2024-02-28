@@ -7,7 +7,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/shaojintian/Best_README_template/">
+  <a>
     <img src="example.png">
   </a>
 
